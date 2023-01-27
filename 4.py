@@ -9,7 +9,6 @@
 Введите целые числа через пробел: 1 2 3
 Результат: 2 1 3
 """
-
 my_list = list(input('Введите значения: ').split())
 new_list = []
 for i in range(0, len(my_list), 2):

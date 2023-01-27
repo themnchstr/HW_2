@@ -12,9 +12,7 @@
 <class 'bool'>
 <class 'NoneType'>
 """
-
 my_list = [10, None, -9, 'True', False, 3.5]
-
 
 def my_type(element):
     for element in range(len(my_list)):
